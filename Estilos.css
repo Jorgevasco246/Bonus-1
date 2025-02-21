@@ -1,0 +1,29 @@
+.Profile {
+    background-color: antiquewhite;
+    width: 70%;
+}
+body {
+    display: flex;
+}
+.section-education {
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 100%;
+}
+.Education {
+    width: 100%;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.education-container {
+    display: flex;
+}
+.education-element {
+    padding: 25px 25px 25px 0;
+    width: 50%;
+    text-align: justify;
+}
+.borde {
+    padding-left: 30px;
+    border-left: 3px solid black;
+}
